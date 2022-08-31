@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gavinbot32
-- 👀 I’m interested in Game Design
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Game Design,Machine Learning
+- 🌱 I’m currently learning Python,Java,C#
 - 💞️ I’m looking to collaborate on Nothing at the moment
 - 📫 How to reach me dont
 
